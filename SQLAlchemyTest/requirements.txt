@@ -1,0 +1,14 @@
+xlsxwriter
+numpy
+sqlalchemy
+bs4
+streamlit_option_menu
+pandas
+streamlit
+selenium
+requests
+mysql-connector-python
+openpyxl
+seaborn
+plotly
+Pillow
